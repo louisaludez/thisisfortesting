@@ -52,7 +52,7 @@
 </head>
 <body>
   <main>
-    <h1 class="text" id="text">Last Testscc2</h1>
+    <h1 class="text" id="text">Last Testsccg2</h1>
 </main>
 <section class="one">1</section>
 <section class="two">2</section>
